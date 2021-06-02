@@ -4,12 +4,12 @@ const Nav = () => {
     return (
         <nav className="nav-bar">
             <span className="nav-name">
-                Noah Linn
+                <h3>Noah Linn</h3>
             </span>
             <span className="nav-links">
-                <Link>About</Link>
-                <Link>Projects</Link>
-                <Link>Tools</Link>
+                <Link><h4>About</h4></Link>
+                <Link><h4>Tools</h4></Link>
+                <Link><h4>Projects</h4></Link>
             </span>
         </nav>
 

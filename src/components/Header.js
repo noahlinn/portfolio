@@ -3,9 +3,11 @@ import git from '../assets/git.png'
 import resume from '../assets/resume.png'
 import NLinn_Resume from '../assets/NLinn_Resume.pdf'
 
+
+
 const Header = () => {
     return (
-
+        
         <div className="div-header">
             <div className="info-container">
                 <div className="header-info">

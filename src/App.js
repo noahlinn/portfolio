@@ -8,8 +8,9 @@ import Tech from './components/Tech';
 function App() {
   return (
     <div className="App">
-      <Nav />
+      
       <Header />
+      <Nav />
       <About />
       <Tech />
     </div>

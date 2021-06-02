@@ -1,7 +1,7 @@
 const About = () => {
     return(
         <div className="about-div">
-            <h2>About Me</h2>
+            <h1>About Me</h1>
             <p>
                 Hello! I'm Noah, a full-stack software engineer with a strong intrest in backend development. I graduated from Georgia State University in
                 2018 with a degree in Computer Information Systems and a connecentration in cybersecurity. Since then, I have been cutting my teeth 
