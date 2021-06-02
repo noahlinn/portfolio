@@ -1,12 +1,25 @@
-
+import gmail from '../assets/gmail.png'
+import git from '../assets/git.png'
+import resume from '../assets/resume.png'
 const Header = () => {
     return (
-        <div className="div-header">
-            <h1>Noah Linn</h1>
-            <h2>Software Engineer</h2>
-            <img className="div-img"src='https://res.cloudinary.com/drrh2ss0o/image/upload/v1622590708/assets/atlantavector_fxu4bg.png' />
+        <div className="opactity">
+            <div className="div-header">
+                <div className="info-container">
+                    <div className="header-info">
+                        <h1 className="name">Noah Linn</h1>
+                        <h2 className="title">Software Engineer</h2>
+                    </div>
+                    <span className="icons">
+                        <img className="contact" id="git-icon" src={git} />
+                        <img className="contact" id="gmail-icon" src={gmail} />
+                        <img className="contact" id="resume-icon" src={resume} />
+                    </span>
+                </div>
+            </div>
         </div>
     )
 }
+
 
 export default Header

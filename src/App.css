@@ -1,11 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 .App {
   text-align: center;
+  background-color: rgb(227, 227, 227);
+  font-family: 'Montserrat', sans-serif;
+  /* background-color: rgb(196,189,139); */
+}
+
+.opactity{
+
+  position: relative;
 }
 
 .div-header{
+  background-image: url('./assets/bg260.jpg');
+ 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  /* background-attachment: fixed; */
+  /* background-color: rgb(143,170,179); */
 }
 
 .div-img{
   width: 100vw;
+}
+
+.nav-bar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 5vh;
+  background-color: rgb(1, 16, 0);
+}
+
+.name{
+  font-size: 100px;
+  font-weight: bolder;
+  margin-bottom: -30px;
+}
+
+#resume-icon{
+  border-radius: 100%;
+}
+
+#resume-icon:hover{
+
+}
+
+.contact{
+  width: 75px;
+  margin: 5px;
+  border-radius: 100%;
+}
+.contact:hover{
+  cursor: pointer;
+  border: solid aliceblue 2px;
+}
+
+.info-container{
+  /* background-color: rgba(255, 255, 255, 0.358); */
+  padding: 50px;
+  opacity: 150%;
+  margin-top: -150px;
 }
