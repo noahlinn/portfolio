@@ -36,7 +36,7 @@
   justify-content: space-between;
   align-items: center;
   height: 5vh;
-  background-color: rgb(1, 16, 0);
+
 }
 
 .name{
@@ -49,9 +49,7 @@
   border-radius: 100%;
 }
 
-#resume-icon:hover{
 
-}
 
 .contact{
   width: 75px;
@@ -68,4 +66,29 @@
   padding: 50px;
   opacity: 150%;
   margin-top: -150px;
+}
+
+.about-div{
+  margin: auto;
+  max-width: 1225px;
+}
+
+.about-div p{
+  line-height: 1.35;
+}
+
+.tech-container{
+  margin: auto;
+  max-width: 1225px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tech p{
+  margin-top: -20px;
+}
+
+.tech img{
+  width: 200px;
+  height: 200px;
 }
