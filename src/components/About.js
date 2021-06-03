@@ -5,7 +5,7 @@ const About = () => {
             <p>
                 Hello! I'm Noah, a full-stack software engineer with a strong interest in backend development.
                 I graduated from Georgia State University in 2018 with a degree in Computer Information Systems
-                and a connecentration in cybersecurity. Since then, I have been cutting my teeth attempting to
+                and a concentration in cybersecurity. Since then, I have been cutting my teeth attempting to
                 pursue music full-time, but that hit a brick wall with the start of the Coronavirus Pandemic.
                 Knowing I would need to make a change, I dusted off my degree and started applying for general
                 I.T. positions. After quickly realizing a helpdesk position wouldn't be for me, I jumped back
