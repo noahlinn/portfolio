@@ -7,10 +7,7 @@
   /* background-color: rgb(196,189,139); */
 }
 
-.opactity{
 
-  position: relative;
-}
 
 .container{
   
@@ -89,7 +86,6 @@
 .info-container{
   /* background-color: rgba(255, 255, 255, 0.358); */
   padding: 50px;
-  opacity: 150%;
   margin-top: -150px;
 }
 
