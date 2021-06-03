@@ -178,6 +178,14 @@ hr{
 }
 
 @media only screen and (max-width: 415px) {
+  .contact{
+    width: 50px;
+    margin: 5px;
+    border-radius: 100%;
+  }
+  .name{
+    font-size: 53px;
+  }
   .about-div{
     margin: auto;
     width: 345px;
