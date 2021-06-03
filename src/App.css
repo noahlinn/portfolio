@@ -176,3 +176,28 @@ hr{
   margin-right: 10px;
   color: black;
 }
+
+@media only screen and (max-width: 375px) {
+  .info-container{
+    text-align: center;
+    width: 350px;
+  }
+  .each-img{
+    width: 350px;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  .each-project{
+    border: solid black 1px;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 4px;
+    max-width: 350px;
+  }
+  
+  .each-project p{
+    width: 350px;
+  }
+
+}
