@@ -177,13 +177,13 @@ hr{
   color: black;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 415px) {
   .info-container{
     text-align: center;
-    width: 350px;
+    width: 340px;
   }
   .each-img{
-    width: 350px;
+    width: 340px;
     border: 1px solid black;
     border-radius: 5px;
   }
@@ -192,12 +192,12 @@ hr{
     border: solid black 1px;
     border-radius: 10px;
     padding: 2px;
-    margin: 4px;
-    max-width: 350px;
+    margin: 2px;
+    max-width: 340px;
   }
   
   .each-project p{
-    width: 350px;
+    width: 340px;
   }
 
-}
+} 
