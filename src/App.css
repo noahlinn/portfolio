@@ -107,13 +107,13 @@
   flex-wrap: wrap;
 }
 
-.tech p{
+/* .tech p{
   margin-top: px;
-}
+} */
 
 .tech img{
-  width: 99px;
-  height: 99px;
+  width: 69px;
+  height: 69px;
 
 }
 
@@ -181,7 +181,7 @@ hr{
   .about-div{
     margin: auto;
     width: 345px;
-  }
+  } 
   .each-img{
     width: 340px;
     border: 1px solid black;
