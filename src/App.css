@@ -183,9 +183,10 @@ hr{
     width: 345px;
   } 
   .each-img{
-    width: 340px;
+    width: 335px;
     border: 1px solid black;
     border-radius: 5px;
+
   }
   
   .each-project{
@@ -205,6 +206,5 @@ hr{
     background-color: rgb(227, 227, 227);
     font-family: 'Montserrat', sans-serif;
     width: 100%;
-    /* background-color: rgb(196,189,139); */
   }
 } 
