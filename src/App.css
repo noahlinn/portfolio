@@ -200,4 +200,11 @@ hr{
     width: 340px;
   }
 
+  .App {
+    text-align: center;
+    background-color: rgb(227, 227, 227);
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    /* background-color: rgb(196,189,139); */
+  }
 } 
