@@ -12,13 +12,13 @@ function App() {
       
       <Header />
       
-      <Nav />
+      {/* <Nav /> */}
       <hr/>
       <About />
       <hr/>
-      <Tech />
-      <hr/>
       <Projects />
+      <hr/>
+      <Tech />
     </div>
   );
 }

@@ -12,7 +12,8 @@ const EachProject = (props) => {
             <span className="links">
                 <a target="_blank" href={props.live} title="Live Link">Live</a>
                 <a target="_blank" href={props.front} title="Frontend Repo">Frontend Repo</a>
-                <a target="_blank" href={props.back} title="Backend Repo">Backend Repo</a>
+                {props.backend && <a target="_blank" href={props.back} title="Backend Repo">Backend Repo</a>}
+                
             </span>
 
         </div>

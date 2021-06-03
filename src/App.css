@@ -95,7 +95,7 @@
 
 .about-div{
   margin: auto;
-  max-width: 1225px;
+  max-width: 1080px;
 }
 
 .about-div p{
@@ -105,7 +105,7 @@
 
 .tech-container{
   margin: auto;
-  max-width: 1300px;
+  max-width: 1080px;
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
@@ -124,8 +124,8 @@
 .tech{
   display: flex;
   flex-direction: column;
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  height: 120px;
   margin:15px;
   justify-content: center;
   align-items: center;
@@ -146,13 +146,15 @@ hr{
 }
 
 .all-proj{
+  margin:auto;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  max-width: 1080px;
 }
 .each-img{
-  width: 600px;
+  width: 435px;
   border: 1px solid black;
   border-radius: 5px;
 }
@@ -161,11 +163,12 @@ hr{
   border: solid black 1px;
   border-radius: 10px;
   padding: 20px;
-  margin: 30px
+  margin: 30px;
+  max-width: 435px;
 }
 
 .each-project p{
-  width: 600px;
+  width: 435px;
 }
 
 .tech-used{
