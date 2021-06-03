@@ -13,7 +13,7 @@ const About = () => {
                 under the guidance of multiple developer friends. Now 3 months and 500 hours later, I have a
                 new passion and drive for software development. Learning how to code has brought back the
                 feeling of being 10 years old first learning how to play the drums. When I'm away from my
-                desk, I enjoy hanging out with my dog, grilling veggies, and of course, my first love,
+                desk, I enjoy hanging out with my dog, cooking dope vegan food, and of course, my first love,
                 playing drums.
             </p>
         </div>
