@@ -5,7 +5,7 @@ import Header from './components/Header';
 import About from './components/About';
 import Tech from './components/Tech';
 import Projects from './components/Projects';
-
+import { Route,  } from 'react-router-dom'
 function App() {
   return (
     <div className="App">
